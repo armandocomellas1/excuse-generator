@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  text-align: center;
+}
+.hidden {
+  visibility: hidden;
+}
+p {
+  font-size: 32px;
+  margin: 10px 0;
+  border-bottom: 2px solid black;
+  display: inline-block;
+  padding-bottom: 5px;
+}
